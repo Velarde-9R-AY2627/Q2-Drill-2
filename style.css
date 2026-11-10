@@ -1,0 +1,12 @@
+
+.hero-section {
+    background:
+                url('https://images.squarespace-cdn.com/content/v1/664c7ae50eea9c731b37e817/38df9671-1633-4828-b705-5972dadf6a57/OBMC+Quadrangle+2.jpg?format=1000w') no-repeat center center/cover;
+    min-height: 85vh;
+    padding: 40px 15px;
+
+}
+
+.hero-card {
+    background-color: #ffffff;
+}
